@@ -1,6 +1,12 @@
 .history
 .DS_Store
 .vscode
+__pycache__/
 html_css_js/
 D3/
 odsc_2022/
+.venv/
+*.png
+*.jpg
+*.jpeg
+*.db
