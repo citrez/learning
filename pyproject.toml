@@ -12,6 +12,9 @@ ipykernel = "^6.25.2"
 pillow = "^10.0.0"
 pytesseract = "^0.3.10"
 opencv-python = "^4.8.0.76"
+numpy = "^1.25.2"
+matplotlib = "^3.7.3"
+black = "^23.9.1"
 
 
 [build-system]
